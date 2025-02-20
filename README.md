@@ -20,4 +20,5 @@ To achieve this, the stakeholders at Contoso want to perform an **RFM (Recency, 
 
 To achieve these objectives, we shall analyze [our dataset](https://www.kaggle.com/code/ekrembayar/rfm-analysis-online-retail-ii/input?select=online_retail_II.xlsx) of customer invoices from 2009 to 2011 using analytical `Python` packages such as `Pandas` and `Seaborn` to conduct our RFM analysis.
 
-Link to [Tableau](https://public.tableau.com/views/Tableau_RFM_Group/StoryRFM?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## Tableau Story
+We have also created a [Tableau Story](https://public.tableau.com/views/Tableau_RFM_Group/StoryRFM?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for interactivity.
